@@ -1,0 +1,84 @@
+Introduction
+Welcome to Flip the Script Session 3, focused on emails. This is a four-session series on how to become a lethal prospector overnight. Session 1 covered objection handling, Session 2 covered how to structure a cold call, and today in Session 3 we'll cover emailing — specifically, what to write to your prospects to win a meeting.
+Agenda:
+
+How to structure an email
+How to tease out a premise or reason for outreach
+The seven pillars of attractive messaging
+The seven deadly sins of messaging
+
+
+Part 1: Email Structure
+I take a page out of MJ Hoffman's playbook (author of Why You, Why You Now) on the F-shaped email. An email should have three — maximum four — lines, not paragraphs, to capture your prospect's attention and speak to them in a way that drives value in their day-to-day.
+Line 1: The Premise
+The first line should be about your premise — a reason for your outreach and what about the prospect or their company made you think it was a good idea to reach out. This will be the longest line of your email, and it should be entirely about the prospect.
+How Prospects Actually Read Emails
+Google did a study on how prospects read emails on a laptop. They start at the two o'clock position and read clockwise. This means your prospect will:
+
+Read the end of your premise line first
+Loop around to the end of your CTA (last line)
+Loop around to the beginning of your CTA
+Only then read the body — if everything else lined up
+
+The least valuable real estate in your email is actually the body. Prospects first want to know who you are, then what you want, and only then do they go back to the middle.
+Line 2: The Body
+This should be the medium-length line. It should communicate your value proposition, not just what your company does. Avoid describing your product's features; instead, speak to the pains your prospect faces.
+Example (feature-focused — avoid this):
+"We are Chorus. We record, transcribe, and analyse sales conversations to show what your reps are doing on the phone."
+Example (value-focused — do this):
+"What if you could turn all of your B players into A players on your sales team? What if you could ensure that reps struggling to hit quota start having conversations that cause them to exceed quota attainment?"
+Zero in on the value you deliver to that specific buyer persona, not on how your company works.
+Line 3: The CTA (Call to Action)
+The last line should be your call to action and should be the shortest line of the email. Ask for one specific time — not multiple options.
+Example:
+"If you give me a shot Wednesday at 2 to unpack how VPs of Sales leverage Chorus to drive quota attainment and accelerate onboarding ramp time, I promise we can part ways as friends if you're not impressed — deal?"
+Your prospect isn't wondering whether Thursday at 2 is available. They're wondering whether you can deliver value. If your first two lines are driving enough personalisation and value, scheduling will never be the obstacle.
+
+Part 2: The Five Premise Buckets
+Before identifying the five buckets, it helps to understand the history of personalisation in prospecting. Most people have historically relied on three types of data:
+
+Firmographics — company-level data: industry, employee size, product sophistication
+Technographics — tech stack and integrations
+Demographics — age, gender, education, profession
+
+The missing ingredient is psychographics — what someone believes, what they're interested in, what hits them at their core. Layering psychographic principles into your outreach is what bumps conversion. The following five buckets are ranked from highest to lowest trigger rate.
+Bucket 1: Self-Authored Content (Highest Conversion)
+Any post, article, webinar, or session your prospect personally created. The key rule: whatever premise you tease out must connect back to your product or value prop. Avoid the "10-80-10 rule" (10% personalised intro, 80% generic pitch, 10% personalised close) — the hook must run throughout the entire email.
+Bucket 2: Engaged Content
+Content the prospect liked, shared, or commented on. It has a slightly lower trigger rate than self-authored content, but still performs well.
+Example:
+"Hi Sean, I noticed you liked MJ Hoffman's post on selling effectively. One line that stood out to me was X. What if you could achieve X without X?"
+Always mention the post and author for context, then connect it to your product in the body line.
+Bucket 3: Self-Attributed Traits (Favourite Bucket)
+LinkedIn gives you three places to find these:
+
+Headline — a snapshot of how someone describes their professional identity
+Profile summary line — where people communicate what matters to them in their own words
+Company description line — where they may reference quota attainment, company milestones, or priorities
+
+Example:
+"Hi Beck, I really enjoyed your profile line about hiring the right people being just as important as developing them. What if you could ensure both priorities were being achieved simultaneously?"
+Why this works: when you reflect someone's own words back to them, they have to acknowledge one of two things — either they do care about what you're discussing, or their profile is inaccurate. They'll almost always choose the former.
+Bucket 4: The Junk Drawer
+Social media interests, schools attended, personal hobbies — anything important to someone outside their professional life. This works well with marketing, HR, and roughly half of sales leaders, but technical buyers tend to dislike it.
+The critical rule here: you must link the personal detail back to your product. The connection has to make sense.
+Example:
+"Hi Beck, I noticed from your Instagram that you love pizza. When it comes to pizza, it's all about quality ingredients. What if you could bump the quality of the ingredients in your sales conversations and ensure your team gets more quality every day?"
+Silly? Maybe. But the principle holds — the hook must connect.
+Bucket 5: Company Premises (Lowest Conversion)
+Firmographic-only premises: mergers and acquisitions, company growth, hiring activity, website changes. This bucket has the lowest hit rate because it lacks psychographic relevance and is often associated with mass-blast outreach.
+If you use this bucket, be specific enough to eliminate any doubt that it's a mass email.
+Generic (avoid): "Hi Sean, I noticed your company is growing."
+Specific (do this): "Hi Sean, I noticed your company has grown 63% over the last six months and just added 17 new reps to your sales team."
+The difference is that the second version signals to your buyer that this could not have been a mass blast.
+
+Part 3: Maintaining Consistency — The Chuck Jones Framework
+A common concern when personalising at this level is: How do I maintain consistency across my reps?
+The answer comes from Chuck Jones, creator of the rules of animation — the mind behind Wile E. Coyote and the Roadrunner. Jones grew up drawing constantly at his father's encouragement, producing upwards of 200,000 drawings over his lifetime. After around 100,000, he stopped focusing solely on the drawings themselves and began thinking about the rules of animation.
+When he built his creative team, he told them: "I don't care how you get there, but these are the rules of engagement." For example: the Roadrunner can only harm the Coyote by going "beep beep," and the Coyote's greatest enemy is always gravity. Every story fit within those nine rules.
+The same principle applies to email. You don't need to control every word your reps write — you need to define the rules. That's where the Seven Pillars and Seven Deadly Sins come in.
+
+Part 4: The Seven Pillars of Attractive Messaging
+(Note: The full list continues beyond this transcript. The first pillar is introduced below.)
+Pillar 1: Prospect-Centric Messaging
+This is the pillar done least well in the industry, which is why it leads the list. Your messaging should centre entirely on the prospect — their priorities, their challenges, their language — not on you or your company.
