@@ -36,3 +36,8 @@
 ### 5. Blank File on GitHub
 - **Problem:** Pushed the file before hitting "Save" in Cursor, resulting in an empty file online.
 - **Solution:** Pressed **`Ctrl + S`** to save the file to disk, then re-ran `git add`, `commit`, and `push`.
+## Project Synthesis: B2B SaaS Outreach Playbook
+After researching 10 global experts, I have identified three pillars of a successful 2026 outreach pipeline:
+1. **Brevity**: Emails must be mobile-optimized and under 50 words (Will Allred/Justin Michael).
+2. **Multi-Channel**: A mix of Video, Phone, and LinkedIn is required for visibility (Charlotte Johnson/Armand Farrokh).
+3. **Problem-Centricity**: Outreach must start with the prospect's pain, not the product's features (Josh Braun/Belal Batrawy).
